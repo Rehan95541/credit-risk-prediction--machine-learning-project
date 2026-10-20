@@ -1,0 +1,7 @@
+,value
+accuracy,0.75
+default_precision,0.5595238095238095
+default_recall,0.7833333333333333
+default_f1,0.6527777777777778
+roc_auc,0.8428571428571429
+average_precision,0.744890306746202
